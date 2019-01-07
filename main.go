@@ -55,4 +55,8 @@ func main(){
 	println(stringtoint("123",mylog))
 	fmt.Println("start~4")
 	println(stringtoint("asda",mylog))
+
+
+	println("note")
+	println("note")
 }
